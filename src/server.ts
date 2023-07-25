@@ -11,5 +11,5 @@ app
     port: 3000,
   })
   .then(() => {
-    console.log(`HTTP server running`);
+    console.log("HTTP server running");
   });
